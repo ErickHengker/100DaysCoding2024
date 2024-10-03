@@ -1,0 +1,40 @@
+package ErickSuryaPratama;
+
+public class Main {
+    
+    public static void main(String[] args) {
+    
+        // Tipe data primitif
+        int angka = 42;
+        long angka1 = 123456789L;
+        float angka2 = 3.14f;
+        double angka3 = 3.14159;
+        boolean benar = true;
+        char inisial = 'E';
+        byte angka4 = 10;
+        short angka5 = 20;
+
+        // Konversi ke String menggunakan String.valueOf()
+        String intStr = String.valueOf(angka);
+        String longStr = String.valueOf(angka1);
+        String floatStr = String.valueOf(angka2);
+        String doubleStr = String.valueOf(angka3);
+        String booleanStr = String.valueOf(benar);
+        String charStr = String.valueOf(inisial);
+        String byteStr = String.valueOf(angka4);
+        String shortStr = String.valueOf(angka5);
+
+        // Menampilkan hasil konversi
+        System.out.println("int to String: " + intStr);
+        System.out.println("long to String: " + longStr);
+        System.out.println("float to String: " + floatStr);
+        System.out.println("double to String: " + doubleStr);
+        System.out.println("boolean to String: " + booleanStr);
+        System.out.println("char to String: " + charStr);
+        System.out.println("byte to String: " + byteStr);
+        System.out.println("short to String: " + shortStr);
+    
+
+    }
+    
+}
