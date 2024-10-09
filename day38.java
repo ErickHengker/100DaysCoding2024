@@ -9,11 +9,11 @@ public class ErickSuryaPratama {
      int nilai = 10;
         System.out.println("nilai awal : " +nilai);
      
-     //penambahan
+     //perkalian
      nilai *= 3;
         System.out.println("perkalian : " +nilai);
         
-     //pengurangan
+     //pembagian
      nilai /= 2;
         System.out.println("pembagian : " +nilai);
              
