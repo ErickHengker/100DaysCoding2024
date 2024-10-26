@@ -1,7 +1,7 @@
 
-package day56;
+package day55;
 
-public class Day56 {
+public class Day55 {
 
     public static void main(String[] args) {
         for (int i = 10; i > 0; i--) {
