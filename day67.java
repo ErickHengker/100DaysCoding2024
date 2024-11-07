@@ -1,5 +1,5 @@
 
-public class day68 {
+public class day67 {
      public static void cetakPesan() {
         System.out.println("Erick Isc member");
     }
