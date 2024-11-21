@@ -1,4 +1,4 @@
-package day69;
+package day82;
 import java.math.*;
 public class NewClass1 {
     public static void main(String[] args) {
